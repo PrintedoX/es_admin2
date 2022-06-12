@@ -9,6 +9,5 @@ Better design es_admin2 script for FiveM server
 ### Get Started
 1) Copy **es_admin2** to your FXServer resource folder
 2) Add **start es_admin2** to your **sever.cfg** file
-3) Start your server or resource
-
+3) Restart your server
  
